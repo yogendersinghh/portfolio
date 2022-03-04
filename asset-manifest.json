@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d09b7164.css",
+    "main.js": "/portfolio/static/js/main.c698e333.js",
+    "static/media/image2.jpg": "/portfolio/static/media/image2.b27b6b3d7c917eead8a6.jpg",
+    "static/media/image5.jpg": "/portfolio/static/media/image5.73db53acb784aa9f71f9.jpg",
+    "static/media/image4.jpg": "/portfolio/static/media/image4.5ee177d67b8157dc1445.jpg",
+    "static/media/image1.jpg": "/portfolio/static/media/image1.d5a230e63b229206d7e4.jpg",
+    "static/media/image6.jpg": "/portfolio/static/media/image6.c2f0b44b5d2a11868909.jpg",
+    "static/media/image8.jpg": "/portfolio/static/media/image8.0423cfd5371878c43375.jpg",
+    "static/media/portfolio6.webp": "/portfolio/static/media/portfolio6.15bc29245b2408a6b155.webp",
+    "static/media/portfolio1.webp": "/portfolio/static/media/portfolio1.9a16e1f99fbd105b56be.webp",
+    "static/media/portfolio4.webp": "/portfolio/static/media/portfolio4.ad32c9a5fa714cd8b9a4.webp",
+    "static/media/portfolio5.webp": "/portfolio/static/media/portfolio5.77f715ddf10f25f78874.webp",
+    "static/media/portfolio2.webp": "/portfolio/static/media/portfolio2.691cb9fea4e45ed0ba70.webp",
+    "static/media/portfolio3.webp": "/portfolio/static/media/portfolio3.f6af05ecec9dd9ec13d4.webp",
+    "static/media/yogenderCV.pdf": "/portfolio/static/media/yogenderCV.a403966d3223e2625ac9.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.d09b7164.css.map": "/portfolio/static/css/main.d09b7164.css.map",
+    "main.c698e333.js.map": "/portfolio/static/js/main.c698e333.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09b7164.css",
+    "static/js/main.c698e333.js"
+  ]
+}
